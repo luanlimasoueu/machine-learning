@@ -1,0 +1,10 @@
+import tensorflow as tf
+import numpy as numpy
+from tensorflow import keras
+
+model = # Your Code Here #
+model.compile (# Your Code Here #)
+xs = # Your Code Here #
+ys = # Your Code Here #
+model.fit( # Your Code Here # )
+print(model.predict([7.0]))
